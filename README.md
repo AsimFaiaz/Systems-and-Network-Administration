@@ -9,3 +9,7 @@
 <p>&bull; Microsoft Visio</p>
 <p>&bull; Hyper - V</p>
 <p>&bull; Active Directory</p>
+
+<hr>
+
+<h3>Please note: This repo contains items Only for EDUCATIONAL OR LEARNING. NOT to be used in any kind of UNIVERSITY ASSIGNMENTS OR PROJECTS</h3>
